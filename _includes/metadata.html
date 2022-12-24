@@ -128,6 +128,10 @@
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
     {%- if site.keybase_username -%}
+        {%- capture link -%}https://{{ site.keybase_username }}.tistory.com{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+        {%- endif -%}
+    {%- if site.tistory_username -%}
         {%- capture link -%}https://keybase.io/{{ site.keybase_username }}{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}

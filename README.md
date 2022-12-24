@@ -19,7 +19,7 @@
 A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
 If you like the theme, give it a star!
 
-[![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
+[![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png" class="img-fluid rounded z-depth-1" zoomable=true %}](https://alshedivat.github.io/al-folio/)
 
 
 ## User community

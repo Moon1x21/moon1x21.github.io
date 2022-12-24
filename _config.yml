@@ -39,7 +39,8 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
+
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -69,7 +70,7 @@ github_username: Moon1x21
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: jueun-mun-7b4178238 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -82,6 +83,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
+tistory_username: mxxnjune # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
@@ -115,7 +117,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: JueunMun # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: 
+blog_description: Welcome to my blog :)
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -139,15 +141,15 @@ pagination:
 #   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+# disqus_shortname: myblog # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# external_sources:
+#   - name: tistory.com
+#     rss_url: https://mxxnjune.tistory.com
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -241,7 +243,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
+display_tags: ['computer vision', 'deep learning','travel', 'Math', 'etc'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
