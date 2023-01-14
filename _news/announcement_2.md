@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: Purdue international scholar
 date: 2021-03-07 16:11:00-0400
 inline: false
 ---
