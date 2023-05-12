@@ -48,8 +48,12 @@
       items: 
         - Object detection and tracking
         - 3D reconstruction
-        - robot vision
-    - title: Reinforcement learning
+        - View synthesis
+        - Gernerative Model
+    - title: Machine Learning
+      items:
+        - Novelty estimation
+        - Few-shot learning
 
 
 - title: Other Interests
