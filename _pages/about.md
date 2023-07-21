@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year M.S. student at POSTECH, advised by [Prof. Namhoon Lee](https://namhoonlee.github.io). My research focuses on efficient learning and model optimization in mahicne learning to provide robust and provable solutions to challenging problems, especially in large-scale settings.
+I am a first-year M.S. student in [Artifical intelligence](https://ai.postech.ac.kr/main/index) at POSTECH, advised by [Prof. Namhoon Lee](https://namhoonlee.github.io). My research focuses on efficient learning and model optimization in mahicne learning to provide robust and provable solutions to challenging problems, especially in large-scale settings.
 
 
 ## GitHub Repositories
