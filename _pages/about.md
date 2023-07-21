@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fourth year CS undergraduate student at Kyunghee University, working with [Prof. Seungkyu Lee](https://khu.elsevierpure.com/en/persons/seungkyu-lee) in [PerCV](http://cvlab.khu.ac.kr/index.html). My research focuses on computer vision and reinforcement learning. 
+I am a first-year M.S. student at POSTECH, advised by [Prof. Namhoon Lee](https://namhoonlee.github.io). My research focuses on efficient learning and model optimization in mahicne learning to provide robust and provable solutions to challenging problems, especially in large-scale settings.
 
 
 ## GitHub Repositories
