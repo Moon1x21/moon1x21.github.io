@@ -9,9 +9,15 @@
 - title: Education
   type: time_table
   contents:
+    - title: Master of science
+      institution: POSTECH
+      year: 09,2023 - 
+      description:
+        - title: Artificial intelligence
+
     - title: Undergraduate
       institution: Kyunghee University
-      year: 2019-08,2023
+      year: 03,2019 - 08,2023
       description:
         - title: Department of Computer Science and Engineering
           contents: 
@@ -21,9 +27,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Machine Learning Lab
+      institution: POSTECH, Pohang-si, South Korea
+      year: 07,2023 - PRESNET
+
     - title: Perception and Computer Vision Laboratory
-      institution: Kyunghee University, Yongin-si, South Kore
-      year: 09,2021 - Present
+      institution: Kyunghee University, Yongin-si, South Korea
+      year: 09,2021 - 06,2023
       description:
         - Research 3D detection focusing on central information with Seongkyu Lee
 
@@ -35,7 +45,7 @@
 
 
     - title: Machine Learning And Visual Computing Laboratory
-      institution: Kyunghee University, Yongin-si, South Kore
+      institution: Kyunghee University, Yongin-si, South Korea
       year: 07, 2021 – 08, 2021
       description:
         - Research new data augmentation method GaussianMix
@@ -44,16 +54,13 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Computer vision
-      items: 
-        - Object detection and tracking
-        - 3D reconstruction
-        - View synthesis
-        - Gernerative Model
     - title: Machine Learning
       items:
-        - Novelty estimation
-        - Few-shot learning
+        - Model compression
+        - Domain generalization
+    - title: Opimization
+        - Stochastic optimization
+      
 
 
 - title: Other Interests
